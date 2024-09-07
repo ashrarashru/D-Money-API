@@ -1,5 +1,5 @@
 # Dmoney API Automation
-## Project summary:
+## Project summary: Performed Integration and API testing on dmoney API. In here I have 1 admin, 1 agent, 2 customers, and 1 merchant user. Only admins can create users. An agent can deposit money from another agent and deposit money to customers. Customer can send money to other customers, withdraw money from agent, and make payment to merchant. Every user checks their own balance and transaction statement. Deposit, withdraw, send money, payment minimum amount 10 TK and maximum amount 10,000 TK. 
 
 ## Technology I have used:
 - postman
